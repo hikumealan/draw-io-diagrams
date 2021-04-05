@@ -1,53 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T12:35:46.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="PEeuepYgkIyjG6zWRcuy" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-05T13:29:31.204Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="8kZIQlJTVoVLJ7cF-lA2" version="14.5.3" type="github">
   <diagram id="j0nWerrw2Snicfc2US4N" name="Page-1">
     <mxGraphModel dx="1554" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zGtckxlxDOLURkBdo12I-14" value="&lt;b&gt;Nexus API &lt;br&gt;Model/Service&lt;/b&gt;&lt;br&gt;@nexus/api-ms-*" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFC400;fontFamily=Tahoma;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="490" y="20" width="170" height="60" as="geometry" />
+        <mxCell id="zGtckxlxDOLURkBdo12I-14" value="&lt;b&gt;Nexus API &lt;br&gt;Model/Service&lt;br&gt;&lt;/b&gt;&lt;br&gt;@nexus/api-ms-*" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFC400;fontFamily=Tahoma;spacing=3;" vertex="1" parent="1">
+          <mxGeometry x="490" y="40" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zGtckxlxDOLURkBdo12I-15" value="&lt;b&gt;Nexus API &lt;br&gt;Model/Service&lt;/b&gt;&lt;br&gt;@nexus/api-ms-*" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFC400;fontFamily=Tahoma;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="490" y="80" width="170" height="60" as="geometry" />
+        <mxCell id="zGtckxlxDOLURkBdo12I-15" value="&lt;b&gt;Nexus API &lt;br&gt;Model/Service&lt;br&gt;&lt;/b&gt;&lt;br&gt;@nexus/api-ms-*" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFC400;fontFamily=Tahoma;spacing=3;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zGtckxlxDOLURkBdo12I-10" value="&lt;b&gt;State &lt;br&gt;Management&lt;br&gt;&lt;/b&gt;&lt;br&gt;Redux&lt;br&gt;NGRX" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#FFFFFF;fontFamily=Tahoma;fillColor=#999999;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="370" y="20" width="140" height="120" as="geometry" />
+          <mxGeometry x="370" y="40" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="zGtckxlxDOLURkBdo12I-11" value="&lt;b&gt;Reactive Programming&lt;/b&gt;&lt;br&gt;&lt;br&gt;RxJS" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#FFFFFF;fontFamily=Tahoma;fillColor=#808080;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="250" y="20" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="zGtckxlxDOLURkBdo12I-1" value="&lt;b&gt;Nexus Standards&lt;/b&gt;&lt;br&gt;&lt;br&gt;Prettier&lt;br&gt;&lt;br&gt;Husky&lt;br&gt;&lt;br&gt;Unit Test&lt;br&gt;&lt;br&gt;E2E Test&lt;br&gt;&lt;br&gt;Coverage&lt;br&gt;&lt;br&gt;Conventional Commits&lt;br&gt;&lt;br&gt;Semantic Versioning&lt;br&gt;&lt;br&gt;Nexus Pipeline&lt;br&gt;&lt;br&gt;Nexus Artifacts&lt;br&gt;&lt;br&gt;Nexus Velocity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE600;fontFamily=Tahoma;verticalAlign=top;spacingLeft=5;spacingRight=5;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="10" y="20" width="120" height="400" as="geometry" />
+          <mxGeometry x="250" y="40" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="zGtckxlxDOLURkBdo12I-2" value="&lt;b&gt;UI Views&lt;/b&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#FFFFFF;fontFamily=Tahoma;fillColor=#666666;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="130" y="20" width="140" height="120" as="geometry" />
+          <mxGeometry x="130" y="40" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="zGtckxlxDOLURkBdo12I-3" value="&lt;b&gt;Community Starter Project&lt;br&gt;&lt;/b&gt;&lt;br&gt;Standard Project Assets" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#0D0D0D;fontColor=#FFFFFF;fillColor=#4D4D4D;fontFamily=Tahoma;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="130" y="260" width="530" height="100" as="geometry" />
+        <mxCell id="zGtckxlxDOLURkBdo12I-3" value="&lt;b&gt;Starter Project&lt;br&gt;&lt;/b&gt;&lt;br&gt;Community Standard Assets" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#0D0D0D;fontColor=#FFFFFF;fillColor=#4D4D4D;fontFamily=Tahoma;spacing=3;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="530" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zGtckxlxDOLURkBdo12I-4" value="&lt;b&gt;Nexus Cookbooks &amp;amp; Recipes&lt;/b&gt;&lt;br&gt;&lt;br&gt;@nexus/core" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#030201;fillColor=#FFC400;fontFamily=Tahoma;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="130" y="140" width="530" height="60" as="geometry" />
+          <mxGeometry x="130" y="180" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zGtckxlxDOLURkBdo12I-5" value="Angular CLI" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0000;fontColor=#FFFFFF;fontFamily=Tahoma;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="155" y="318" width="120" height="30" as="geometry" />
+          <mxGeometry x="155" y="358" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zGtckxlxDOLURkBdo12I-6" value="Create React App" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#007FFF;fontColor=#FFFFFF;fontFamily=Tahoma;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="275" y="318" width="120" height="30" as="geometry" />
+          <mxGeometry x="275" y="358" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zGtckxlxDOLURkBdo12I-7" value="Vue CLI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#040503;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="395" y="318" width="120" height="30" as="geometry" />
+          <mxGeometry x="395" y="358" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zGtckxlxDOLURkBdo12I-8" value="Ionic CLI" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#030303;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fillColor=#7F00FF;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="515" y="318" width="120" height="30" as="geometry" />
+          <mxGeometry x="515" y="358" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zGtckxlxDOLURkBdo12I-9" value="&lt;b&gt;Nexus UI&lt;/b&gt;&lt;br&gt;&lt;br&gt;@nexus/angular&lt;br&gt;@nexus/react&lt;br&gt;@nexus/vue" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFC400;fontFamily=Tahoma;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="140" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="140" y="80" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zGtckxlxDOLURkBdo12I-12" value="&lt;b&gt;Nexus Tooling&lt;/b&gt;&lt;br&gt;&lt;br&gt;@nexus/cli" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe600;fontFamily=Tahoma;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="10" y="360" width="650" height="60" as="geometry" />
+          <mxGeometry x="110" y="400" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zGtckxlxDOLURkBdo12I-13" value="&lt;b&gt;Nexus Use Case Template&lt;br&gt;&lt;/b&gt;&lt;br&gt;*Overwrite Project Assets with Nexus Assets*" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFC400;fontFamily=Tahoma;spacing=3;" vertex="1" parent="1">
-          <mxGeometry x="130" y="200" width="530" height="60" as="geometry" />
+          <mxGeometry x="130" y="240" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGtckxlxDOLURkBdo12I-1" value="&lt;b&gt;Nexus &lt;br&gt;Commands&lt;/b&gt;&lt;br&gt;&lt;br&gt;Scaffolding&lt;br&gt;&lt;br&gt;Generating&lt;br&gt;&lt;br&gt;Extending&lt;br&gt;&lt;br&gt;Auditing&lt;br&gt;&lt;br&gt;Updating&lt;br&gt;&lt;br&gt;Formatting&lt;br&gt;&lt;br&gt;Linting&lt;br&gt;&lt;br&gt;Testing&lt;br&gt;&lt;br&gt;Committing&lt;br&gt;&lt;br&gt;Running&lt;br&gt;&lt;br&gt;Serving&lt;br&gt;&lt;br&gt;Building&lt;br&gt;&lt;br&gt;Deploying" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE600;fontFamily=Tahoma;verticalAlign=top;spacingLeft=5;spacingRight=5;spacing=3;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="120" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
