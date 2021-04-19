@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T20:10:56.246Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="ftCKQ65JVYHMlE_PcbTP" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T23:08:01.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="xBoOaTmiegtrCFaX-E-J" version="14.5.3" type="github">
   <diagram id="SjxEzp3B3Er_9qphzSCv" name="Page-1">
     <mxGraphModel dx="2404" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,6 +51,12 @@
         </mxCell>
         <mxCell id="lehfB2Kb_rCUWP32BNfx-13" value="Nudges UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lehfB2Kb_rCUWP32BNfx-14" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lehfB2Kb_rCUWP32BNfx-15" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
