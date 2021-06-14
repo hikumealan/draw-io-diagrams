@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" modified="2021-06-14T13:44:43.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="tmar4D0JnYdCXaZoIciJ" version="14.7.0" type="github">
+  <diagram id="SjxEzp3B3Er_9qphzSCv" name="Page-1">
+    <mxGraphModel dx="2404" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-1" value="Mortgage API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-311" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-2" value="Events" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="-151" y="40" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-3" value="Mortgage UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-800" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-4" value="Demo UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-800" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-5" value="Mock API" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-491" y="159" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-10" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="zzrBO7MCQHI6MRNyHfe8-4" target="zzrBO7MCQHI6MRNyHfe8-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="69" as="sourcePoint" />
+            <mxPoint x="-370" y="319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-11" value="Nudge" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="-461" y="289" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-13" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="zzrBO7MCQHI6MRNyHfe8-24" target="zzrBO7MCQHI6MRNyHfe8-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-271" y="560" as="sourcePoint" />
+            <mxPoint x="-92" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="zzrBO7MCQHI6MRNyHfe8-26" target="zzrBO7MCQHI6MRNyHfe8-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="380" as="sourcePoint" />
+            <mxPoint x="-440" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-15" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zzrBO7MCQHI6MRNyHfe8-3" target="zzrBO7MCQHI6MRNyHfe8-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-680" y="110" as="sourcePoint" />
+            <mxPoint x="-170" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-16" value="&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui&amp;#34; , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;MortgageLendingSiteVisit&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-620" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-19" value="" style="endArrow=classic;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="zzrBO7MCQHI6MRNyHfe8-4" target="zzrBO7MCQHI6MRNyHfe8-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="370" as="sourcePoint" />
+            <mxPoint x="-170" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-20" value="&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;#34;segoe ui&amp;#34; , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;ClubMembershipPayment&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-22" value="Deep Link" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-830" y="299" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-23" value="Deep Link" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-830" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-24" value="Proxy Mortgage API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-501" y="209" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-26" value="setupProxy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-700" y="90" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-27" value="Platfrom Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-181" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-28" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-121" y="230" as="sourcePoint" />
+            <mxPoint x="-121" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
