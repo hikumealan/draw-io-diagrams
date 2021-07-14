@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T19:15:08.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" version="14.5.3" etag="n6Z5wL77Kowv44DQPpn5" type="github"><diagram id="HEiGUlukCGZqpBvKubvR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-14T19:28:01.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="_jEPR1PNJzJXnd7N0rsJ" version="14.8.6" type="github">
+  <diagram id="HEiGUlukCGZqpBvKubvR" name="Page-1">
+    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8d0RVLimi-yqicXbfbM0-1" value="Community Starter Project" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-3" value="Angular CLI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-4" value="Create React App" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-5" value="Vue CLI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="460" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-6" value="Ionic CLI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="590" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-7" value="Nexus CLI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="120" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-8" value="Nexus Starter Kit - App Shell" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-9" value="Nexus Use Case Module(s)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-10" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="530" as="sourcePoint" />
+            <mxPoint x="180" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-11" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259.5" y="490" as="sourcePoint" />
+            <mxPoint x="259.5" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-12" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.5" y="490" as="sourcePoint" />
+            <mxPoint x="389.5" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-13" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519.5" y="490" as="sourcePoint" />
+            <mxPoint x="519.5" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-14" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="649.5" y="490" as="sourcePoint" />
+            <mxPoint x="649.5" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-15" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="339.5" as="sourcePoint" />
+            <mxPoint x="180" y="339.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-17" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="269.5" as="sourcePoint" />
+            <mxPoint x="180" y="269.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-18" value="Nexus UI Xpress - Gen New Screen(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-19" value="Nexus Cookbooks &amp;amp; Recipes - Forms, State Management &amp;amp; API Service Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-20" value="Nexus UI Components" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-21" value="Nexus API Models" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="570" y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-22" value="Nexus API Validation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-23" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="199.5" as="sourcePoint" />
+            <mxPoint x="180" y="199.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
