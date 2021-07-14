@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T19:28:01.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="_jEPR1PNJzJXnd7N0rsJ" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T20:09:11.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="pKip5fbnNo-KXu5fkY_N" version="14.8.6" type="github">
   <diagram id="HEiGUlukCGZqpBvKubvR" name="Page-1">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,43 +28,43 @@
         <mxCell id="8d0RVLimi-yqicXbfbM0-9" value="Nexus Use Case Module(s)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="500" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-10" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-10" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="530" as="sourcePoint" />
             <mxPoint x="180" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-11" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-11" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="259.5" y="490" as="sourcePoint" />
             <mxPoint x="259.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-12" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-12" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="389.5" y="490" as="sourcePoint" />
             <mxPoint x="389.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-13" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-13" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="519.5" y="490" as="sourcePoint" />
             <mxPoint x="519.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-14" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-14" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="649.5" y="490" as="sourcePoint" />
             <mxPoint x="649.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-15" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-15" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="339.5" as="sourcePoint" />
             <mxPoint x="180" y="339.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-17" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-17" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="269.5" as="sourcePoint" />
             <mxPoint x="180" y="269.5" as="targetPoint" />
@@ -85,11 +85,14 @@
         <mxCell id="8d0RVLimi-yqicXbfbM0-22" value="Nexus API Validation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="30" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-23" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-23" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="199.5" as="sourcePoint" />
             <mxPoint x="180" y="199.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-24" value="Nexus Velocity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="740" y="10" width="120" height="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
