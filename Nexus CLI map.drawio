@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T21:49:38.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="Q6yWzD7kAdsGyQmd1Dv3" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T21:52:20.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="rP8E8zzgv_OWjpl52o2I" version="14.9.4" type="github">
   <diagram id="HEiGUlukCGZqpBvKubvR" name="Page-1">
     <mxGraphModel dx="1554" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="8d0RVLimi-yqicXbfbM0-7" value="&lt;br&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;Nexus CLI&lt;br&gt;&lt;/b&gt;-----------------&lt;br&gt;&lt;br&gt;Scaffold&lt;br&gt;&lt;br&gt;Generate&lt;br&gt;&lt;br&gt;Import&lt;br&gt;&lt;br&gt;Update&lt;br&gt;&lt;br&gt;Audit&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Format&lt;br&gt;&lt;br&gt;Lint&lt;br&gt;&lt;br&gt;Test&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Proxy&lt;br&gt;&lt;br&gt;Serve&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Commit&lt;br&gt;&lt;br&gt;Push&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Build&lt;br&gt;&lt;br&gt;Deploy&lt;br&gt;&lt;br&gt;-----------------" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="150" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-8" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Nexus Starter Kit - Code Structure, App Shell, Auth, State Management&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-8" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Nexus Starter Kit - Code Structure, Convert to TS, App Shell, Auth, Navigation, State Management&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
           <mxGeometry x="230" y="330" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8d0RVLimi-yqicXbfbM0-9" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Nexus IP Import&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Use Case Module(s)&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
