@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T13:13:38.805Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="rP9M3aKFlBUNeU-jY308" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T13:55:12.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="NH_799uHxh9kr9gB_xy7" version="14.9.4" type="github">
   <diagram id="HEiGUlukCGZqpBvKubvR" name="Page-1">
     <mxGraphModel dx="1554" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
         <mxCell id="tLe-2WMdHiqMxx7N67UK-9" value="Data Map" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="550" y="165" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tLe-2WMdHiqMxx7N67UK-10" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Nexus Starter Kit - Code Structure, Convert to TS, Reactive Programming&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+        <mxCell id="tLe-2WMdHiqMxx7N67UK-10" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Nexus Starter Kit - Code Structure, Convert to TS, Prettier/eslint, Reactive Programming (RxJS)&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
           <mxGeometry x="230" y="360" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLe-2WMdHiqMxx7N67UK-11" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" edge="1" parent="1">
