@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T15:35:05.900Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" etag="z61WZNT4e2xBKIRbX2UM" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T15:36:51.295Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" etag="-1GchPPyOdI32_gTsq6i" version="15.3.8" type="github">
   <diagram id="eAhy2NpeJ8kPdQk6M6c4" name="Page-1">
     <mxGraphModel dx="2276" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -166,6 +166,9 @@
           <mxGeometry x="0.0766" y="-2" relative="1" as="geometry">
             <mxPoint x="-28" y="-2" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rogJ5lGElAQyd50u1B-l-64" value="&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Log&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Event:&lt;/blockquote&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="875" y="540" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
