@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T17:46:01.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" etag="znf7Jp77ruVHlCa3M01f" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T21:45:33.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" etag="RLklGS6rZ7Sp7hxSP4Mw" version="15.3.8" type="github">
   <diagram id="eAhy2NpeJ8kPdQk6M6c4" name="Page-1">
-    <mxGraphModel dx="2404" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2404" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,6 +178,15 @@
         </mxCell>
         <mxCell id="rogJ5lGElAQyd50u1B-l-65" value="GET" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="695" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rogJ5lGElAQyd50u1B-l-69" value="1&lt;br&gt;M&amp;amp;C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;verticalAlign=top;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rogJ5lGElAQyd50u1B-l-70" value="2&lt;br&gt;A&amp;amp;C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;verticalAlign=top;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="641" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rogJ5lGElAQyd50u1B-l-71" value="3&lt;br&gt;Data / Event" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;verticalAlign=top;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="630" y="380" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
