@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T22:01:02.463Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="ZwhSmv0jX6cpfsU355x9" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T22:04:49.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="g-li5lqPPWMKFoRaGjBl" version="15.5.9" type="github">
   <diagram id="ZEOOtgSiwhDXwcd7VbD-" name="Page-1">
     <mxGraphModel dx="2918" dy="2691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VVwiRAqZByVtcaLR8sdH-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;fillColor=default;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="-125" y="310" width="160" height="85" as="geometry" />
+          <mxGeometry x="-148" y="296" width="200" height="106.25" as="geometry" />
         </mxCell>
         <mxCell id="VVwiRAqZByVtcaLR8sdH-11" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
