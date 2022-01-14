@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T13:44:43.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="tmar4D0JnYdCXaZoIciJ" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T14:43:53.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="kAZR6cgQNhmRQJQIN4yc" version="16.2.7" type="github">
   <diagram id="SjxEzp3B3Er_9qphzSCv" name="Page-1">
-    <mxGraphModel dx="2404" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2404" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
         <mxCell id="zzrBO7MCQHI6MRNyHfe8-26" value="setupProxy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-700" y="90" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zzrBO7MCQHI6MRNyHfe8-27" value="Platfrom Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zzrBO7MCQHI6MRNyHfe8-27" value="Platform Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-181" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zzrBO7MCQHI6MRNyHfe8-28" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
