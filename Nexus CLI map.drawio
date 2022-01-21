@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T14:42:59.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="VkQDXNNp7LoC_FN5diXW" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T21:17:42.641Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="GL8cc14KAbqATxTiOl8w" version="16.4.5" type="github">
   <diagram id="HEiGUlukCGZqpBvKubvR" name="Page-1">
-    <mxGraphModel dx="1554" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,14 +19,14 @@
         <mxCell id="8d0RVLimi-yqicXbfbM0-6" value="Ionic CLI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="620" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-7" value="&lt;br&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;Nexus CLI&lt;br&gt;&lt;/b&gt;-----------------&lt;br&gt;&lt;br&gt;Scaffold&lt;br&gt;&lt;br&gt;Generate&lt;br&gt;&lt;br&gt;Import&lt;br&gt;&lt;br&gt;Update&lt;br&gt;&lt;br&gt;Audit&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Format&lt;br&gt;&lt;br&gt;Lint&lt;br&gt;&lt;br&gt;Test&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Proxy&lt;br&gt;&lt;br&gt;Serve&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Commit&lt;br&gt;&lt;br&gt;Push&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Build&lt;br&gt;&lt;br&gt;Deploy&lt;br&gt;&lt;br&gt;-----------------" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-7" value="&lt;b style=&quot;font-size: 20px&quot;&gt;UI-Xpress CLI&lt;br&gt;&lt;/b&gt;-----------------&lt;br&gt;&lt;br&gt;Scaffold&lt;br&gt;&lt;br&gt;Generate&lt;br&gt;&lt;br&gt;Import&lt;br&gt;&lt;br&gt;Update&lt;br&gt;&lt;br&gt;Audit&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Format&lt;br&gt;&lt;br&gt;Lint&lt;br&gt;&lt;br&gt;Test&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Proxy&lt;br&gt;&lt;br&gt;Serve&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Commit&lt;br&gt;&lt;br&gt;Push&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Build&lt;br&gt;&lt;br&gt;Deploy&lt;br&gt;&lt;br&gt;-----------------" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="150" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-8" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Nexus Foundation - App Shell, Auth, Navigation, State Management, Form Component Wrappers, Error Boundaries&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-8" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Core - App Shell, Auth, Navigation, Lazy Load, Clickstream Tracking, Component Wrappers, Error Boundaries&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
           <mxGeometry x="230" y="290" width="640" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-9" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Nexus IP Import&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Use Case Module(s)&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
-          <mxGeometry x="230" y="220" width="640" height="60" as="geometry" />
+        <mxCell id="8d0RVLimi-yqicXbfbM0-9" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span&gt;Module&lt;/span&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
+          <mxGeometry x="230" y="80" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8d0RVLimi-yqicXbfbM0-10" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -70,20 +70,20 @@
             <mxPoint x="210" y="249.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-18" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Nexus GenXpress&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-18" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;GenXpress&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="230" y="10" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0RVLimi-yqicXbfbM0-19" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Cookbooks &amp;amp; Recipes - Dynamic Forms, State Management, Data Persistence, Reactive Programming (RxJS)&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="230" y="150" width="640" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-19" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Nexus Cookbooks &amp;amp; Recipes - Forms, State Management &amp;amp; API Service Layer&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="230" y="80" width="640" height="60" as="geometry" />
+        <mxCell id="8d0RVLimi-yqicXbfbM0-20" value="UI Component Library" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="230" y="220" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-20" value="Nexus UI Components" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="230" y="10" width="200" height="60" as="geometry" />
+        <mxCell id="8d0RVLimi-yqicXbfbM0-21" value="API Request/Response Models" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="670" y="220" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-21" value="Nexus API Models" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="670" y="10" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-22" value="Nexus API Validation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="10" width="200" height="60" as="geometry" />
+        <mxCell id="8d0RVLimi-yqicXbfbM0-22" value="API Validation Schema" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="220" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8d0RVLimi-yqicXbfbM0-23" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -91,40 +91,40 @@
             <mxPoint x="210" y="179.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-24" value="Nexus Velocity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="930" y="10" width="150" height="600" as="geometry" />
+        <mxCell id="8d0RVLimi-yqicXbfbM0-24" value="Velocity Utility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="900" y="220" width="150" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="tLe-2WMdHiqMxx7N67UK-1" value="Disputes" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="460" y="235" width="80" height="30" as="geometry" />
+        <mxCell id="tLe-2WMdHiqMxx7N67UK-1" value="Disputes" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="460" y="95" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tLe-2WMdHiqMxx7N67UK-2" value="Mortgage" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="550" y="235" width="80" height="30" as="geometry" />
+        <mxCell id="tLe-2WMdHiqMxx7N67UK-2" value="Mortgage" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="550" y="95" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tLe-2WMdHiqMxx7N67UK-3" value="Offers" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="640" y="235" width="80" height="30" as="geometry" />
+        <mxCell id="tLe-2WMdHiqMxx7N67UK-3" value="Offers" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="640" y="95" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tLe-2WMdHiqMxx7N67UK-4" value="Insights" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="730" y="235" width="80" height="30" as="geometry" />
+        <mxCell id="tLe-2WMdHiqMxx7N67UK-4" value="Insights" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="730" y="95" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tLe-2WMdHiqMxx7N67UK-6" value="NX CLI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="tLe-2WMdHiqMxx7N67UK-6" value="NX CLI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="750" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tLe-2WMdHiqMxx7N67UK-7" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" edge="1" parent="1">
+        <mxCell id="tLe-2WMdHiqMxx7N67UK-7" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="809.5" y="540" as="sourcePoint" />
             <mxPoint x="809.5" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tLe-2WMdHiqMxx7N67UK-8" value="Markup" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="460" y="165" width="80" height="30" as="geometry" />
+        <mxCell id="tLe-2WMdHiqMxx7N67UK-8" value="Markup" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="460" y="25" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tLe-2WMdHiqMxx7N67UK-9" value="Data Map" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="550" y="165" width="80" height="30" as="geometry" />
+        <mxCell id="tLe-2WMdHiqMxx7N67UK-9" value="Data Map" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="550" y="25" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tLe-2WMdHiqMxx7N67UK-10" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Nexus Starter Kit - Code Structure, Convert to TS, Prettier/eslint, Reactive Programming (RxJS)&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+        <mxCell id="tLe-2WMdHiqMxx7N67UK-10" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Init - Folder Structure, TypeScript, SCSS, Env Vars, Editor Config, Prettier, ES Lint, Style Lint, Husky&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
           <mxGeometry x="230" y="360" width="640" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tLe-2WMdHiqMxx7N67UK-11" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" edge="1" parent="1">
+        <mxCell id="tLe-2WMdHiqMxx7N67UK-11" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="389.5" as="sourcePoint" />
             <mxPoint x="210" y="389.5" as="targetPoint" />
