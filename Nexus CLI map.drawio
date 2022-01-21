@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T21:17:42.641Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="GL8cc14KAbqATxTiOl8w" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T21:18:05.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="GYnTETBATxgv3LnmPXFV" version="16.4.5" type="github">
   <diagram id="HEiGUlukCGZqpBvKubvR" name="Page-1">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="8d0RVLimi-yqicXbfbM0-8" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Core - App Shell, Auth, Navigation, Lazy Load, Clickstream Tracking, Component Wrappers, Error Boundaries&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
           <mxGeometry x="230" y="290" width="640" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-9" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span&gt;Module&lt;/span&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-9" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span&gt;Module(s)&lt;/span&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
           <mxGeometry x="230" y="80" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8d0RVLimi-yqicXbfbM0-10" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" parent="1" edge="1">
