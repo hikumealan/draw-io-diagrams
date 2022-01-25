@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T14:20:14.238Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="7NR8bripNq1z8lqoWEce" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T14:22:21.313Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="6JQja9E5LpZfa-AaNGAX" version="16.4.5" type="github">
   <diagram id="HEiGUlukCGZqpBvKubvR" name="Page-1">
     <mxGraphModel dx="1554" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
         <mxCell id="tLe-2WMdHiqMxx7N67UK-9" value="Data Map" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="550" y="25" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tLe-2WMdHiqMxx7N67UK-10" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Init - Project RC, Folder Structure, TypeScript, SCSS, Env Vars, Dev Proxy, Editor Config, Prettier, ES Lint, Style Lint, Husky&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
+        <mxCell id="tLe-2WMdHiqMxx7N67UK-10" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Init - Nexus RC, Folder Structure, TypeScript, SCSS, Env Vars, Dev Proxy, Editor Config, Prettier, ES Lint, Style Lint, Husky&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
           <mxGeometry x="230" y="360" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLe-2WMdHiqMxx7N67UK-11" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" parent="1" edge="1">
