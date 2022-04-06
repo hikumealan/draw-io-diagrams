@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T15:31:38.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="eHUZ2JMLAhsRtO95znaM" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T15:33:33.687Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="eMGl0YvGZTch3y08JV45" version="17.1.1" type="github">
   <diagram id="eAhy2NpeJ8kPdQk6M6c4" name="Page-1">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="197.5" y="170" width="180" height="430" as="geometry" />
         </mxCell>
         <mxCell id="rogJ5lGElAQyd50u1B-l-4" value="NodeJS" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="880" y="60" width="390" height="340" as="geometry" />
+          <mxGeometry x="880" y="60" width="370" height="350" as="geometry" />
         </mxCell>
         <mxCell id="rogJ5lGElAQyd50u1B-l-9" value="" style="shape=flexArrow;endArrow=classic;html=1;width=30;fillColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rogJ5lGElAQyd50u1B-l-11" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="205" width="150" height="150" as="geometry" />
+          <mxGeometry x="1140" y="350" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="rogJ5lGElAQyd50u1B-l-12" value="GET" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="895" y="90" width="120" height="60" as="geometry" />
@@ -49,10 +49,10 @@
           <mxGeometry x="1040" y="90" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rogJ5lGElAQyd50u1B-l-19" value="Client.js" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1365" y="240" width="80" height="100" as="geometry" />
+          <mxGeometry x="1175" y="385" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rogJ5lGElAQyd50u1B-l-23" value="Spring Reactive &lt;br&gt;Clickstream Intake API" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="880" y="470" width="150" height="150" as="geometry" />
+          <mxGeometry x="880" y="530" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="rogJ5lGElAQyd50u1B-l-25" value="Server Side" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="892.5" y="170" width="125" height="180" as="geometry">
@@ -137,8 +137,8 @@
         </mxCell>
         <mxCell id="rogJ5lGElAQyd50u1B-l-53" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="490" as="sourcePoint" />
-            <mxPoint x="850" y="490.5" as="targetPoint" />
+            <mxPoint x="400" y="550" as="sourcePoint" />
+            <mxPoint x="850" y="550.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lj4Cxs8d8kKV8_LcsweM-2" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rogJ5lGElAQyd50u1B-l-53" vertex="1" connectable="0">
@@ -178,18 +178,18 @@
           <mxGeometry x="840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rogJ5lGElAQyd50u1B-l-71" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;verticalAlign=top;fontSize=36;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="1100" y="315" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lj4Cxs8d8kKV8_LcsweM-1" value="WebSocket" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="400" y="579" as="sourcePoint" />
-            <mxPoint x="850" y="579" as="targetPoint" />
+            <mxPoint x="400" y="639" as="sourcePoint" />
+            <mxPoint x="850" y="639" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lj4Cxs8d8kKV8_LcsweM-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="520" as="sourcePoint" />
-            <mxPoint x="400" y="520" as="targetPoint" />
+            <mxPoint x="850" y="580" as="sourcePoint" />
+            <mxPoint x="400" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lj4Cxs8d8kKV8_LcsweM-4" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Lj4Cxs8d8kKV8_LcsweM-3" vertex="1" connectable="0">
@@ -198,7 +198,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lj4Cxs8d8kKV8_LcsweM-7" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;verticalAlign=top;fontSize=36;" parent="1" vertex="1">
-          <mxGeometry x="840" y="410" width="80" height="80" as="geometry" />
+          <mxGeometry x="840" y="470" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
