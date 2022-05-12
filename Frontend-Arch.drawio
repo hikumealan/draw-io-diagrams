@@ -1,26 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T20:39:49.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="4YAUQJFxfyal4RUg34-q" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T21:11:38.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="YuvCzPzl2se8rTh90GZe" version="17.1.1" type="github">
   <diagram id="GSHjNJquIBWYedqatWQM" name="Page-1">
-    <mxGraphModel dx="1554" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2404" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-3" value="SPA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-9" value="Native Mobile App" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1000" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-4" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-23" value="Objective-C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-9">
+          <mxGeometry x="40" y="40" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="90" as="sourcePoint" />
-            <mxPoint x="520" y="90" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-24" value="Swift" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-9">
+          <mxGeometry x="40" y="80" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="240" y="120" as="sourcePoint" />
-            <mxPoint x="520" y="120" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-25" value="Java" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-9">
+          <mxGeometry x="40" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-26" value="Kotlin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-9">
+          <mxGeometry x="40" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-10" value="Single Page App" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-15" value="Angular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-10">
+          <mxGeometry x="40" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-16" value="React" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-10">
+          <mxGeometry x="40" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-17" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-10">
+          <mxGeometry x="40" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-11" value="Hybrid App" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-18" value="Ionic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-11">
+          <mxGeometry x="40" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-27" value="Electron" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-11">
+          <mxGeometry x="40" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-28" value="Onsen UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-11">
+          <mxGeometry x="40" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-12" value="Cross-Platform App" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-19" value="React Native" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-12">
+          <mxGeometry x="40" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-20" value="Xamarin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-12">
+          <mxGeometry x="40" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-21" value="NativeScript" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-12">
+          <mxGeometry x="40" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-22" value="Flutter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-12">
+          <mxGeometry x="40" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-13" value="Progressive Web App" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-14" value="Web Component" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
