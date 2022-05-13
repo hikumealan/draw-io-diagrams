@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T22:15:44.756Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="YGmT_80KRyDY87F1KnzM" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T00:46:34.222Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.133 Safari/537.36" etag="un104mi1P9hzJfpu9fRr" version="18.0.3" type="github">
   <diagram id="GSHjNJquIBWYedqatWQM" name="Page-1">
-    <mxGraphModel dx="1554" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1512" dy="1115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,12 @@
         </mxCell>
         <mxCell id="2rGWUdsjUpu9k1-Q1eZj-26" value="Kotlin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-9">
           <mxGeometry x="40" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qQKpdPSw3FHPLv_IKiC2-2" value="IOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-9">
+          <mxGeometry y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qQKpdPSw3FHPLv_IKiC2-3" value="Android" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-9">
+          <mxGeometry y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2rGWUdsjUpu9k1-Q1eZj-10" value="Single Page App" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="200" height="200" as="geometry" />
@@ -73,7 +79,7 @@
         <mxCell id="2rGWUdsjUpu9k1-Q1eZj-14" value="Web Component" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-43" value="Web Broswer" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-43" value="Web Browser" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="370" height="410" as="geometry" />
         </mxCell>
         <mxCell id="2rGWUdsjUpu9k1-Q1eZj-29" value="UI Web App" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-43">
@@ -106,7 +112,7 @@
         <mxCell id="2rGWUdsjUpu9k1-Q1eZj-81" value="Web Worker&lt;br&gt;&amp;amp;&lt;br&gt;Service Worker" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-43">
           <mxGeometry x="240" y="297.5" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-50" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-50" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="630" y="120" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2rGWUdsjUpu9k1-Q1eZj-48" value="REST" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-50">
@@ -124,13 +130,13 @@
             <mxPoint x="30" y="43.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-56" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-56" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="630" y="280" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-60" value="" style="group" vertex="1" connectable="0" parent="2rGWUdsjUpu9k1-Q1eZj-56">
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-60" value="" style="group" connectable="0" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-56">
           <mxGeometry x="-5.000000000000005" width="285" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-62" value="" style="group" vertex="1" connectable="0" parent="2rGWUdsjUpu9k1-Q1eZj-60">
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-62" value="" style="group" connectable="0" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-60">
           <mxGeometry width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2rGWUdsjUpu9k1-Q1eZj-53" value="WebSocket" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-62">
@@ -148,13 +154,13 @@
         <mxCell id="2rGWUdsjUpu9k1-Q1eZj-61" value="Server Lib" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-62">
           <mxGeometry x="225" y="20" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-67" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-67" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="630" y="200" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-68" value="" style="group" vertex="1" connectable="0" parent="2rGWUdsjUpu9k1-Q1eZj-67">
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-68" value="" style="group" connectable="0" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-67">
           <mxGeometry x="-5.000000000000005" width="285" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-69" value="" style="group" vertex="1" connectable="0" parent="2rGWUdsjUpu9k1-Q1eZj-68">
+        <mxCell id="2rGWUdsjUpu9k1-Q1eZj-69" value="" style="group" connectable="0" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-68">
           <mxGeometry width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2rGWUdsjUpu9k1-Q1eZj-70" value="GraphQL" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="2rGWUdsjUpu9k1-Q1eZj-69">
@@ -180,6 +186,9 @@
         </mxCell>
         <mxCell id="2rGWUdsjUpu9k1-Q1eZj-82" value="Web Assembly" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qQKpdPSw3FHPLv_IKiC2-1" value="JSON or&lt;br&gt;Binary (gRPC, Protobuf, etc.)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;position2=0;size=30;position=0.08;" vertex="1" parent="1">
+          <mxGeometry x="770" y="40" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
