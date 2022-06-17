@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T15:41:51.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" version="19.0.2" etag="xRSH7Ns0ndKZgPav7YhP" type="github"><diagram id="doy6lBYmEUcqj1wkiJL7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-17T13:40:49.071Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="5EDZCy-Vxc9q7FrWAC4p" version="19.0.2" type="github">
+  <diagram id="doy6lBYmEUcqj1wkiJL7" name="Page-1">
+    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z1KYvdcLALQJG1Rqsepn-1" value="Design Token" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z1KYvdcLALQJG1Rqsepn-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="230" as="sourcePoint" />
+            <mxPoint x="220" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z1KYvdcLALQJG1Rqsepn-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="250" as="sourcePoint" />
+            <mxPoint x="220" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z1KYvdcLALQJG1Rqsepn-4" value="&lt;br&gt;Sketch&lt;br&gt;Figma&lt;br&gt;XD" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="z1KYvdcLALQJG1Rqsepn-5" value="Style Dictionary" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z1KYvdcLALQJG1Rqsepn-6" value="Designer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1KYvdcLALQJG1Rqsepn-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="130" as="sourcePoint" />
+            <mxPoint x="80" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z1KYvdcLALQJG1Rqsepn-8" value="&lt;br&gt;NDS&lt;br&gt;SCSS&lt;br&gt;Vars" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="80" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
