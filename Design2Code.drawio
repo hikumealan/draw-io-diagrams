@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T17:41:45.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="4Giko-oCcNlDGwb7rRUg" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T17:45:21.285Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="nXkNCA8MN0dEvLX5B467" version="20.0.3" type="github">
   <diagram id="doy6lBYmEUcqj1wkiJL7" name="Page-1">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
             <mxPoint x="220" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z1KYvdcLALQJG1Rqsepn-4" value="Design Symbol" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="z1KYvdcLALQJG1Rqsepn-4" value="Design Tokens &amp;amp; Symbols" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="240" y="140" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="z1KYvdcLALQJG1Rqsepn-5" value="Style Dictionary" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
