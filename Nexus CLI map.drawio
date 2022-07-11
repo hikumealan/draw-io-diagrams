@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T22:12:48.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="_BFYAW7CzV5hPGedd4UP" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T18:26:34.338Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="ZXKp7Cwyf9zA_M9JcHYF" version="20.0.4" type="github">
   <diagram id="HEiGUlukCGZqpBvKubvR" name="Page-1">
-    <mxGraphModel dx="1554" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="8d0RVLimi-yqicXbfbM0-7" value="&lt;b style=&quot;font-size: 20px&quot;&gt;Web CLI&lt;br&gt;&lt;/b&gt;-----------------&lt;br&gt;&lt;br&gt;Scaffold&lt;br&gt;&lt;br&gt;Generate&lt;br&gt;&lt;br&gt;Import&lt;br&gt;&lt;br&gt;Update&lt;br&gt;&lt;br&gt;Audit&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Format&lt;br&gt;&lt;br&gt;Lint&lt;br&gt;&lt;br&gt;Test&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Proxy&lt;br&gt;&lt;br&gt;Serve&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Commit&lt;br&gt;&lt;br&gt;Push&lt;br&gt;&lt;br&gt;-----------------&lt;br&gt;&lt;br&gt;Build&lt;br&gt;&lt;br&gt;Deploy&lt;br&gt;&lt;br&gt;-----------------" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="150" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="8d0RVLimi-yqicXbfbM0-8" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Core - App Shell, Auth, Navigation, Lazy Load, Clickstream Tracking, Component Wrappers, Error Boundaries, Logging, i18n and L10n, User Idle,&amp;nbsp;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
+        <mxCell id="8d0RVLimi-yqicXbfbM0-8" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Core - App Shell, PWA, Parent App, Authentication, Permissions, Navigation, Lazy Load, Clickstream Tracking, Component Wrappers, Error Boundaries, Logging, i18n, l10n, User Idle,&amp;nbsp;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
           <mxGeometry x="230" y="290" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8d0RVLimi-yqicXbfbM0-9" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span&gt;Micro-Frontend Module&lt;/span&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -121,7 +121,7 @@
         <mxCell id="tLe-2WMdHiqMxx7N67UK-9" value="Data Map" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="550" y="25" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tLe-2WMdHiqMxx7N67UK-10" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Init - Nexus RC, Folder Structure, TypeScript, SCSS, Env Vars, Dev Proxy, Editor Config, Prettier, ES Lint, Style Lint, Husky&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
+        <mxCell id="tLe-2WMdHiqMxx7N67UK-10" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;Init - Nexus RC, Folder Structure, TypeScript, SCSS, Env Vars, Dev Proxy, Editor Config, Prettier, ES Lint, Style Lint, JSON Sort, Code Coverage, Conventional Commits, Semantic Versioning, Husky, Tree Shaking,&amp;nbsp;Minification,&amp;nbsp;Obfuscation, Browser List, a11y, CI/CD&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
           <mxGeometry x="230" y="360" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLe-2WMdHiqMxx7N67UK-11" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;" parent="1" edge="1">
@@ -130,7 +130,7 @@
             <mxPoint x="210" y="389.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4MPpFSGKou55jzCAV7dB-1" value="MS Nexus API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="4MPpFSGKou55jzCAV7dB-1" value="MS Nexus API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="890" y="220" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
